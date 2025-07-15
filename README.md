@@ -1,4 +1,9 @@
-# 👋 Hi there, I'm Vedat!
+<img src="https://media.giphy.com/media/xTcnTehwgRcbgymhTW/giphy.gif" align = "right" width = "400" height = "200">
+
+### Hi there, I'm Vedat. :blush:
+
+## AI Developer | Software Engineer
+
 
 I'm a curious and passionate **junior developer** with a growing focus on **Artificial Intelligence** and **Modern Web Technologies**. I began my journey in software development with web design and full-stack fundamentals, and over time, I’ve developed a strong interest in intelligent systems and language models.
 
